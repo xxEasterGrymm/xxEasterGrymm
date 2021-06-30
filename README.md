@@ -2,6 +2,12 @@
 
 ![xxEasterGrymm's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxEasterGrymm&hide=contribs,prs&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxEasterGrymm&hide=tex,rebol&langs_count=10&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+**Languages and Tools I use:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+
 <!--
 **xxEasterGrymm/xxEasterGrymm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
