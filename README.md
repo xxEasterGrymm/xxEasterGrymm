@@ -24,3 +24,4 @@ I am Arya Bhattacharyya. I am a Second Year B.E. CSE Student in Chandigarh Unive
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/aryabhattacharyya/"><img align="left" alt="Arya's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<a href="https://www.instagram.com/ea._.ster/"><img align="left" alt="Arya's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"/></a>
