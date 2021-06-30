@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![xxEasterGrymm's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxEasterGrymm&&hide=contribs,prs&show_icons=true&?theme=merko)
+![xxEasterGrymm's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxEasterGrymm&&hide=contribs,prs&show_icons=true&theme=merko)
 
 
 <!--
