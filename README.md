@@ -12,13 +12,18 @@
 <code><img height="30" src="icons/html.png" title="HTML5"></code>
 <code><img height="30" src="icons/css.png" title="CSS3"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title=""></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" title="Bootstrap"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" title="PHP"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png title="MySQL"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title=""></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" title="Bash"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title=""></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript"></code>
-
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript"></code>
 
 
 <!--
