@@ -25,7 +25,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript"></code>
 
-
 <!--
 **xxEasterGrymm/xxEasterGrymm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
