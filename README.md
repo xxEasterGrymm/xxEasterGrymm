@@ -23,8 +23,8 @@ I am Arya Bhattacharyya. I am a Second Year B.E. CSE Student in Chandigarh Unive
 
 ## Connect with me:
 
-<a href="https://www.linkedin.com/in/aryabhattacharyya/"><img align="left" alt="Arya's LinkedIn" title="Arya's LinkedIn" width="30px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
-<a href="https://www.instagram.com/ea._.ster/"><img align="left" alt="Arya's Instagram" title="Arya's Instagram" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"/></a>
-<a href="https://www.facebook.com/xxEasterGrymm"><img align="left" alt="Arya's Facebook" title="Arya's Facebook" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/174/174848.png"/></a>
-[<img align="left" alt="Arya's Gmail ID" title="Mail to aryabhattacharyya.study@gmail.com" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png"/>](mailto:aryabhattacharyya.study@gmail.com)
-[<img align="left" alt="Arya's Outlook ID" title="Mail to 20bcs3161@cuchd.in" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/732/732223.png"/>](mailto:20bcs3161@cuchd.in)
+<a href="https://www.linkedin.com/in/aryabhattacharyya/"><img align="left" alt="LinkedIn" title="LinkedIn" width="30px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
+<a href="https://www.instagram.com/ea._.ster/"><img align="left" alt="Instagram" title="Instagram" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"/></a>
+<a href="https://www.facebook.com/xxEasterGrymm"><img align="left" alt="Facebook" title="Facebook" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/174/174848.png"/></a>
+[<img align="left" alt="Gmail ID" title="Mail to Gmail ID: aryabhattacharyya.study@gmail.com" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png"/>](mailto:aryabhattacharyya.study@gmail.com)
+[<img align="left" alt="Outlook ID" title="Mail to Outlook ID: 20bcs3161@cuchd.in" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/732/732223.png"/>](mailto:20bcs3161@cuchd.in)
