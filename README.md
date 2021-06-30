@@ -7,7 +7,7 @@ I am Arya Bhattacharyya. I am a Second Year B.E. CSE Student at Chandigarh Unive
 ## Languages and Tools I use:
 
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C"></code>
-<code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" title="C++"></code>
+<code><img width="30px" height="30" src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" title="Java"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" title="Python"></code>
 <code><img width="30px" height="30" src="icons/html.png" title="HTML5"></code>
