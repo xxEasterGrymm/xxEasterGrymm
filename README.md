@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![xxEasterGrymm's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxEasterGrymm&hide=contribs,prs)
-![xxEasterGrymm's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxEasterGrymm&show_icons=true)
+![xxEasterGrymm's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxEasterGrymm&&hide=contribs,prs&show_icons=true)
 
 
 <!--
