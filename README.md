@@ -25,3 +25,4 @@ I am Arya Bhattacharyya. I am a Second Year B.E. CSE Student in Chandigarh Unive
 
 <a href="https://www.linkedin.com/in/aryabhattacharyya/"><img align="left" alt="Arya's LinkedIn" title="Arya's LinkedIn" width="30px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
 <a href="https://www.instagram.com/ea._.ster/"><img align="left" alt="Arya's Instagram" title="Arya's Instagram" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"/></a>
+<a href="https://www.facebook.com/xxEasterGrymm"><img align="left" alt="Arya's Facebook" title="Arya's Facebook" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/174/174848.png"/></a>
