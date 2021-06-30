@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xxEasterGrymm&hide=contribs,prs&show_icons=true&theme=merko" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxEasterGrymm&hide=tex,rebol&langs_count=10&layout=compact&theme=merko"/>
+<p>I am Arya Bhattacharyya</p>
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=xxEasterGrymm&hide=contribs,prs&show_icons=true&theme=merko" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxEasterGrymm&hide=tex,rebol&langs_count=10&layout=compact&theme=merko"/>
 
 **Languages and Tools I use:**  
 
