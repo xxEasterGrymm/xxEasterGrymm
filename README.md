@@ -10,14 +10,14 @@ I am Arya Bhattacharyya. I am a Second Year B.E. CSE Student at Chandigarh Unive
 <code><img width="30px" height="30" src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" title="Java"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" title="Python"></code>
-<code><img width="30px" height="30" src="icons/html.png" title="HTML5"></code>
-<code><img width="30px" height="30" src="icons/css.png" title="CSS3"></code>
+<code><img width="30px" height="30" src="https://image.flaticon.com/icons/png/512/174/174854.png" title="HTML5"></code>
+<code><img width="30px" height="30" src="https://image.flaticon.com/icons/png/512/732/732190.png" title="CSS3"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" title="Bootstrap"></code>
 <code><img width="35px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" title="PHP"></code>
-<code><img width="30px" height="30" src="icons/sql.png" title="SQL"></code>
+<code><img width="30px" height="30" src="https://img-premium.flaticon.com/png/512/4248/premium/4248443.png?token=exp=1625162509~hmac=1fe0c18fa05d22651bdd4528e59d417e" title="SQL"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git"></code>
-<code><img width="30px" height="30" src="icons/nodejs.png" title="Node.js"></code>
+<code><img width="30px" height="30" src="https://image.flaticon.com/icons/png/512/919/919825.png" title="Node.js"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" title="Bash"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" title="R"></code>
 
