@@ -4,7 +4,7 @@
 I am Arya Bhattacharyya. I am a Second Year B.E. CSE Student at Chandigarh University. I am a self taught web developer and a competitive programmer. I am currently trying my luck in the field of Android and Software Development. : )<br/><br/><br/><br/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxEasterGrymm&hide=tex,rebol&langs_count=10&layout=compact&theme=merko">
 
-## Languages and Tools I use:
+## Languages and Technologies I use:
 
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C"></code>
 <code><img width="30px" height="30" src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++"></code>
