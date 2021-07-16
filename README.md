@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xxEasterGrymm&hide=contribs&show_icons=true&theme=merko">
 I am Arya Bhattacharyya. I am a Second Year B.E. CSE Student at Chandigarh University. I am a self taught web developer and a competitive programmer. I am currently trying my luck in the field of Android and Software Development. : )<br/><br/><br/><br/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxEasterGrymm&hide=cs,tex,rebol&langs_count=10&layout=compact&theme=merko">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxEasterGrymm&hide=asp,tex,rebol&langs_count=10&layout=compact&theme=merko">
 
 ## Languages and Technologies I use:
 
