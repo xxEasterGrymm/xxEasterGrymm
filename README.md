@@ -15,7 +15,7 @@ I am Arya Bhattacharyya. I am a Second Year B.E. CSE Student at Chandigarh Unive
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" title="Bootstrap"></code>
 <code><img width="35px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" title="PHP"></code>
-<code><img width="30px" height="30" src="https://img-premium.flaticon.com/png/512/4248/premium/4248443.png?token=exp=1625162509~hmac=1fe0c18fa05d22651bdd4528e59d417e" title="SQL"></code>
+<code><img width="30px" height="30" src="https://image.flaticon.com/icons/png/512/29/29553.png" title="SQL"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git"></code>
 <code><img width="30px" height="30" src="https://image.flaticon.com/icons/png/512/919/919825.png" title="Node.js"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" title="Bash"></code>
