@@ -20,7 +20,7 @@ I am Arya Bhattacharyya. I am a Second Year B.E. CSE Student at Chandigarh Unive
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git"></code>
 <code><img width="30px" height="30" src="https://cdn-icons-png.flaticon.com/512/919/919851.png" title="React.js"></code>
 <code><img width="30px" height="30" src="https://image.flaticon.com/icons/png/512/919/919825.png" title="Node.js"></code>
-<code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" title="Bash"></code>
+<code><img width="30px" height="30" src="https://cdn-icons-png.flaticon.com/512/919/919851.png" title="Django"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" title="R"></code>
 
 ## Connect with me:
