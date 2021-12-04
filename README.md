@@ -32,12 +32,6 @@ I am Arya Bhattacharyya. I am a Second Year B.E. CSE Student at Chandigarh Unive
 [<img align="left" alt="Outlook ID" title="Mail to Outlook ID: 20bcs3161@cuchd.in" width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/732/732223.png"/>](mailto:20bcs3161@cuchd.in)
 <a href="https://discordapp.com/users/"><img align="left" alt="Discord" title="Discord ID - xxEasterGrymm#2517" width="30px" height="30px" src="https://img-premium.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1633463219~hmac=9a47f63cf9772688da57ca5ffad892d1"/></a>
 
-
-<p align="center"> 
-  Visitors count:<br>
-  <img src="https://profile-counter.glitch.me/xxEasterGrymm/count.svg" />
-</p>
-
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=narayan954" alt="V2dha" /> <a href="https://twitter.com/narayan854"> </a>
+<img src="https://komarev.com/ghpvc/?username=xxEasterGrymm" alt="V2dha" /> <a href=""> </a>
 </p>
