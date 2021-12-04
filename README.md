@@ -37,3 +37,7 @@ I am Arya Bhattacharyya. I am a Second Year B.E. CSE Student at Chandigarh Unive
   Visitors count:<br>
   <img src="https://profile-counter.glitch.me/xxEasterGrymm/count.svg" />
 </p>
+
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=narayan954" alt="V2dha" /> <a href="https://twitter.com/narayan854"> </a>
+</p>
