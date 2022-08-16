@@ -10,8 +10,8 @@ I am Arya Bhattacharyya. I am a Second Year B.E. CSE Student at Chandigarh Unive
 <code><img width="30px" height="30" src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" title="Java"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" title="Python"></code>
-<code><img width="30px" height="30" src="https://image.flaticon.com/icons/png/512/174/174854.png" title="HTML5"></code>
-<code><img width="30px" height="30" src="https://image.flaticon.com/icons/png/512/732/732190.png" title="CSS3"></code>
+<code><img width="30px" height="30" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" title="HTML5"></code>
+<code><img width="30px" height="30" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" title="CSS3"></code>
 <code><img width="30px" height="30" src="https://cdn-icons-png.flaticon.com/512/919/919831.png" title="SASS"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" title="Bootstrap"></code>
